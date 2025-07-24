@@ -1,0 +1,1 @@
+The dashboard includes key performance indicators (KPI) such as Total Profit, Total Sales, Total Quantity, and shipping cost, Total Customers, a breakdown of sales by segment, category, and Market, Filters,  Top 3 Profiting Products, Top Customers and many more…
